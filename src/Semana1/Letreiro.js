@@ -1,4 +1,3 @@
-import "./Letreiro.css";
 import { useEffect, useState } from "react";
 
 function Letreiro() {

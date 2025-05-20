@@ -1,4 +1,3 @@
-import "./Relogio.css";
 import { useEffect, useState } from "react";
 
 function Relogio() {
