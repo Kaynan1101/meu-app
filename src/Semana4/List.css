@@ -1,0 +1,88 @@
+.list1-container {
+  background: #fff;
+  padding: 24px;
+  border-radius: 8px;
+  max-width: 350px;
+  margin: 32px auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.list1-container h1 {
+  font-size: 1.3em;
+  margin-bottom: 16px;
+}
+
+.list1-container input {
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+  font-size: 1em;
+  margin-right: 8px;
+}
+
+.list1-container button {
+  background: #222;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 7px 16px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.list1-container button:hover {
+  background: #444;
+}
+
+.list1-container ul {
+  list-style: disc;
+  padding-left: 20px;
+  margin-top: 16px;
+  text-align: left;
+}
+
+.list1-container li {
+  margin-bottom: 6px;
+}
+
+.list2-container {
+  background: #fff;
+  padding: 24px;
+  border-radius: 8px;
+  max-width: 350px;
+  margin: 32px auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.list2-container h1 {
+  font-size: 1.3em;
+  margin-bottom: 16px;
+}
+
+.list2-container ul {
+  list-style: disc;
+  padding-left: 20px;
+  margin-top: 16px;
+  text-align: left;
+}
+
+.list2-container li {
+  margin-bottom: 8px;
+}
+
+.list2-container button {
+  background: #222;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 12px;
+  font-size: 1em;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+.list2-container button:hover {
+  background: #444;
+}
