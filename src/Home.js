@@ -22,6 +22,9 @@ const Home = () => {
           <li>
             <Link to="Atv05">Semana 5</Link>
           </li>
+          <li>
+            <Link to="Atv06">Semana 6</Link>
+          </li>
         </ul>
       </nav>
     </div>

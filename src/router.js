@@ -6,6 +6,7 @@ import Atv02 from "./Semana2/Atv02";
 import Atv03 from "./Semana3/Atv03";
 import Atv04 from "./Semana4/Atv04";
 import Atv05 from "./Semana5/Atv05";
+import Atv06 from "./Semana6/Atv06";
 
 export default function Router() {
   return (
@@ -17,6 +18,7 @@ export default function Router() {
         <Route path="/atv03" element={<Atv03 />} />
         <Route path="/atv04" element={<Atv04 />} />
         <Route path="/atv05" element={<Atv05 />} />
+        <Route path="/atv06" element={<Atv06 />} />
       </Routes>
     </BrowserRouter>
   );
